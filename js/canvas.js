@@ -1,4 +1,3 @@
-let drawArea = {};
 let board, context;
 let size = 300;
 var dimension = [document.documentElement.clientWidth, document.documentElement.clientHeight];
